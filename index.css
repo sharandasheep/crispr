@@ -2,7 +2,6 @@ a{
   padding: 10px;
   text-decoration: none;
   color: white;
-  background-color: white;
 }
 nav{
   background-color: #010814;
@@ -26,4 +25,5 @@ a.closebtn {
 
 #selected {
   font-weight: bold;
+  background-color: #072454;
 }
